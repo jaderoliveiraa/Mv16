@@ -271,8 +271,8 @@ const messages = {
 			transferTicketModal: {
 				title: "Transferir Ticket",
 				fieldLabel: "Escriba para buscar usuarios",
-				fieldQueueLabel: "Transferir para fila", //Start Need Translate
-				fieldQueuePlaceholder: "Selecione uma fila", //End need translate
+				fieldQueueLabel: "Transferir para fila", // Start Need Translate
+				fieldQueuePlaceholder: "Selecione uma fila", // End need translate
 				noOptions: "No se encontraron usuarios con ese nombre",
 				buttons: {
 					ok: "Transferir",
