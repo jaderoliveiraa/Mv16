@@ -578,10 +578,10 @@ const messages = {
 					actions: "Comportamiento",
 				},
 				buttons: {
-					add: "Nuevo agendamiento",
+					add: "Nueva programación",
 				},
 				toasts: {
-					deleted: Programs.",
+					deleted: "Cita eliminada con éxito.",
 				},
 			},
 			tags: {
